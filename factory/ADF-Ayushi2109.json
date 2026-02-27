@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Ayushi2109",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "94ba0a8a-869a-4270-8878-3ff664d509d6",
+		"tenantId": "d664217f-fcb7-4262-be5a-380657b05723"
+	}
+}
